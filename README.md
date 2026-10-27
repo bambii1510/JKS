@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>เว็บโทรศัพท์คู่จิ้น</title>
+    <title>HEESEUNG PHONE</title>
     <style>
         /* ตั้งค่าให้พื้นหลังเว็บทั้งหมดเป็นสีเข้ม */
         body {
